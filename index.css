@@ -57,6 +57,20 @@ table {
     CSS to the main tag, below.  You might want to add a border, 
     change alignment or add padding for example.
 */
+header {
+	display: block;
+	justify-content: center;
+	padding-top: 3vh;
+	text-decoration: underline;
+}
 main {
+	display: flex;
+	justify-content: center;
+	padding-top: 5vh;
+	background-color: #FFFFFF;
+}
 
+#body{
+	text-align: center;
+	background-color: #FFFFFF;
 }
