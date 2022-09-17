@@ -74,3 +74,11 @@ main {
 	text-align: center;
 	background-color: #FFFFFF;
 }
+
+body p{
+	font-size: 1vw;
+	margin-left: 10vw;
+	margin-right: 10vw;
+	margin-bottom: 1vw;
+	margin-top: 1vw;
+}
