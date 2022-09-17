@@ -240,9 +240,6 @@ function collisionCircle(){
         speedX2 = +speedX2;
         speedY2 = +speedY2;
         }
-        
-
-
 }
 
 function MouseMovement(){
