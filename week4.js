@@ -16,7 +16,7 @@ function draw() {
         fill(255);
         stroke(0);
 
-        //OUTLINE OF HEART --- CONVERT TO VERTEX 
+        //OUTLINE OF HEART
         beginShape();
         vertex(294.5, 300);
         vertex(344.5, 300); // Top left flat
@@ -61,12 +61,10 @@ function draw() {
         line(415, 410, 344.5, 440); // Line from center
 
 
-        // Shining particles
-
         line(400, 200, 400, 210);
 
         textSize(22);
         fill(255);
-        text('Shattered Diamond Heart', 10, 30);
+        text('Shattered Diamond Heart', 10, 30); //Text
 
 }
